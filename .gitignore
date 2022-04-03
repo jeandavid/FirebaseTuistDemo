@@ -1,0 +1,9 @@
+.DS_Store
+Apps/**/Derived/
+Apps/**/*.xcworkspace/
+Apps/**/*.xcodeproj/
+Modules/**/Derived/
+Modules/**/*.xcworkspace/
+Modules/**/*.xcodeproj/
+Tuist/Dependencies/
+DemoApp.xcworkspace/
